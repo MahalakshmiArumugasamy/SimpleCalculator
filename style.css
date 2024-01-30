@@ -42,7 +42,7 @@ body {
 main {
     background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 51%, #ffecd2 100%);
     color: var(--textDarkColor);
-    height: 600px;
+    height: 650px;
     padding-top: 20px;
     padding-left: 20px;
 }
